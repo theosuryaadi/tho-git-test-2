@@ -8,5 +8,9 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet</p>
+    <ul>
+        <li>Mangga</li>
+        <li>Pisang</li>
+    </ul>
 </body>
 </html>
